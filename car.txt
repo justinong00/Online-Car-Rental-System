@@ -1,0 +1,11 @@
+PeroduaAxia:Sedan:5Seats:Automatic:Gasoline:No:SCRS001:80
+PeroduaBezza:Sedan:5Seats:Automatic:Gasoline:No:SCRS002:110
+PeroduaMyvi:Hatchback:5Seats:Automatic:Gasoline:No:SCRS003:90
+PeroduaAlza:MPV:7Seats:Automatic:Gasoline:No:SCRS004:160
+ProtonSaga:Sedan:5Seats:Automatic:Gasoline:No:SCRS005:90
+ProtonIriz:Hatchback:5Seats:Automatic:Gasoline:No:SCRS006:60
+ProtonExora:MPV:7Seats:Automatic:Gasoline:No:SCRS007:110
+ToyotaVios:Sedan:5Seats:Automatic:Gasoline:No:SCRS008:110
+ToyotaInnova:MPV:8Seats:Automatic:Gasoline:Yes:SCRS009:150
+HondaBRV:SUV:5Seats:Automatic:Gasoline:Yes:SCRS010:130
+HondaJazz:Hatchback:5Seats:Automatic:Gasoline:Yes:SCRS011:150
